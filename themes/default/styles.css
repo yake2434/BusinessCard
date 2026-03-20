@@ -50,6 +50,10 @@ a {
   margin-bottom: 30px;
   line-height: 1.6;
   color: #555;
+  text-wrap: pretty;         /* 避免最後一行只剩下單一個字或標點符號 */
+  word-break: keep-all;      /* 中文排版優化，盡量保持詞彙完整不斷行 */
+  overflow-wrap: break-word; /* 避免過長的英文單字或網址撐破版面 */
+  padding: 0 10px;           /* 增加微小的左右內邊距，讓文字不要太貼緊容器邊緣 */
 }
 
 .links {
