@@ -15,7 +15,7 @@ google_analytics_id:
 title: "橙色的品源"
 
 # 頭像圖片路徑 (請記得將您的專屬 Logo 圖片存成 profile.jpeg 放入 images 資料夾替換)
-avatar: "./images/profile.jpeg"
+avatar: "./images/profile.jpg"
 
 # 名稱區塊文字
 name: "橙色的品源"
@@ -23,59 +23,44 @@ name: "橙色的品源"
 # 標語區塊文字 (使用 |- 來保留您設計的換行排版)
 tagline: |-
   用影像記錄土地信仰，捕捉台灣文化與人文脈動。
-  橙色的品源帶你走訪台灣!
-  🎥 台灣宗教民俗文化紀錄頻道
-  這裡專注於紀錄台灣的宗教信仰、廟會活動、民俗文化與傳統習俗。偶爾也會分享旅遊景點、環島健行、在地美食與生活日常。
-  👉 喜歡廟會文化、宗教祭典、台灣民俗、旅遊探索的朋友，歡迎訂閱並開啟小鈴鐺
-
+  |-橙色的品源帶你走訪台灣!
+  |-🎥 台灣宗教民俗文化記錄頻道
+  |-    這裡專注於紀錄台灣的宗教信仰、廟會活動、民俗文化與傳統習俗。
+  |-    偶爾也會分享旅遊景點、環島健行、在地美食與生活日常。
+  |-👉 歡迎訂閱下面各平台，帶你一起認識台灣!
+  |-Capturing the heart of Taiwan’s traditions through my lens.
+  |-Hey, I’m Pinyuan! Join me as I explore the hidden gems of Taiwan.
+  |-🎥 Documenting Taiwan’s Religious & Folk Culture
+  |-This channel is all about Taiwan’s spiritual life—from vibrant temple fairs and ancient folk rituals to the traditions that define us.
+  |-You’ll also find me sharing my travel adventures, hiking trips, local eats, and everyday life.
+  |-👉 Subscribe and follow my journey to discover the real Taiwan!
 # 連結列表
 links:
   - link:
       icon: "fa-brands fa-youtube"
-      text: "Youtube"
-      url: "https://linktw.in/EypcQU"
+      text: "Youtube>影片在這"
+      url: "https://www.youtube.com/@yake2434"
       alt: "橙色的品源 Youtube 頻道"
       title: "橙色的品源 Youtube 頻道"
       target: "_blank"
   - link:
       icon: "fa-brands fa-instagram"
-      text: "Instagram"
-      url: "https://linktw.in/pyCNKE"
+      text: "Instagram>相片在這"
+      url: "https://www.instagram.com/yake2434"
       alt: "橙色的品源 Instagram"
       title: "橙色的品源 Instagram"
       target: "_blank"
   - link:
       icon: "fa-brands fa-facebook"
-      text: "facebook"
-      url: "https://linktw.in/tnzYVe"
+      text: "Facebook>相簿在這"
+      url: "https://facebook.com/yake2434"
       alt: "橙色的品源 Facebook"
       title: "橙色的品源 Facebook"
       target: "_blank"
 
-# 社交媒體連結列表 (會顯示在頁尾的小圖示)
-socials:
-  - social:
-      icon: "fa-brands fa-youtube"
-      url: "https://linktw.in/EypcQU"
-      title: "Youtube"
-      alt: "Youtube"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://linktw.in/pyCNKE"
-      title: "Instagram"
-      alt: "Instagram"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-facebook"
-      url: "https://linktw.in/tnzYVe"
-      title: "Facebook"
-      alt: "Facebook"
-      target: "_blank"
-
 # 頁尾文字
 footer: >
-  歡迎來到橙色的品源！追蹤我的 YouTube 頻道，或在 Instagram 和 Facebook 上與我保持聯繫。
+  歡迎邀請拍攝！相關合作請私訊 Instagram 或 Facebook 或mail到 yake2434@gmail.com 與我聯繫。
 
 # 頁尾版權聲明
 copyright: >
