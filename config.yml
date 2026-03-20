@@ -56,13 +56,7 @@ links:
       alt: "橙色的品源 Facebook"
       title: "橙色的品源 Facebook"
       target: "_blank"
-socials:  
-- social:  
-      icon: "fa-solid fa-envelope"  
-      url: "yake2434@gmail.com"  
-      title: "Email: yake2434@gmail.com"  
-      alt: "yake2434@gmail.com"  
-      target: "_blank"  
+
 # 頁尾文字
 footer: >
   歡迎邀請拍攝！相關合作請私訊 Instagram 或 Facebook 或mail到 yake2434@gmail.com 與我聯繫。
