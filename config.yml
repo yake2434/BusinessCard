@@ -35,21 +35,21 @@ tagline: |-
 links:
   - link:
       icon: "fa-brands fa-youtube"
-      text: "Youtube>影片在這"
+      text: "Youtube>影片"
       url: "https://www.youtube.com/@yake2434"
       alt: "橙色的品源 Youtube 頻道"
       title: "橙色的品源 Youtube 頻道"
       target: "_blank"
   - link:
       icon: "fa-brands fa-instagram"
-      text: "Instagram>相片在這"
+      text: "Instagram>相片"
       url: "https://www.instagram.com/yake2434"
       alt: "橙色的品源 Instagram"
       title: "橙色的品源 Instagram"
       target: "_blank"
   - link:
       icon: "fa-brands fa-facebook"
-      text: "Facebook>相簿在這"
+      text: "Facebook>相簿"
       url: "https://facebook.com/yake2434"
       alt: "橙色的品源 Facebook"
       title: "橙色的品源 Facebook"
